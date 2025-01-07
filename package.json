@@ -1,5 +1,6 @@
 {
-  "name": "Reelify",
+  "name": "reelify",
+  "description": "Open source video editor",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -19,5 +20,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "nanoid": "^5.0.9"
+  }
 }

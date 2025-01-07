@@ -1,0 +1,10 @@
+{
+  "extends": "@repo/typescript-config/server.json",
+  "include": [
+    "**/*.ts",
+    "**/*.js",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

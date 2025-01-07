@@ -1,3 +1,3 @@
 # REELIFY
 
-Open source video editor
+Open source video editor (work in progress)
